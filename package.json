@@ -1,0 +1,41 @@
+{
+  "name": "prettier-config-zombie",
+  "version": "0.1.0",
+  "description": "My base Prettier configuration.",
+  "main": "index.js",
+  "repository": "https://github.com/zwagner86/prettier-config-zombie",
+  "author": "Zach Wagner",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.13.0",
+    "npm": ">=6.12.0"
+  },
+  "keywords": [
+    "JavaScript",
+    "check",
+    "checker",
+    "code",
+    "code checker",
+    "code linter",
+    "code standards",
+    "code style",
+    "enforce",
+    "prettier",
+    "prettierconfig",
+    "hint",
+    "jscs",
+    "jshint",
+    "jsx",
+    "lint",
+    "policy",
+    "quality",
+    "react",
+    "simple",
+    "standard",
+    "standard style",
+    "style",
+    "style checker",
+    "style linter",
+    "verify"
+  ]
+}
