@@ -1,14 +1,14 @@
 {
   "name": "prettier-config-zombie",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "My base Prettier configuration.",
   "main": "index.js",
   "repository": "https://github.com/zwagner86/prettier-config-zombie",
   "author": "Zach Wagner",
   "license": "MIT",
   "engines": {
-    "node": ">=12.13.0",
-    "npm": ">=6.12.0"
+    "node": ">=14.17.0",
+    "npm": ">=6.14.0"
   },
   "keywords": [
     "JavaScript",
