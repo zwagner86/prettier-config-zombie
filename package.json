@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-zombie",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My base Prettier configuration.",
   "main": "index.js",
   "repository": "https://github.com/zwagner86/prettier-config-zombie",
