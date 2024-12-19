@@ -1,4 +1,4 @@
-# 0.1.1 - 11/22/2024 - [Zach Wagner](mailto:zwagner86@gmail.com)
+# 0.1.1 - 12/18/2024 - [Zach Wagner](mailto:zwagner86@gmail.com)
 -   Updated configuration for latest Prettier compatibility:
     -   Replaced deprecated `jsxBracketSameLine` with `bracketSameLine`
     -   Removed redundant default options for cleaner configuration
